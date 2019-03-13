@@ -9,10 +9,10 @@ TOKEN = '#########:###################################'
 
 # Proxy settings for things to work in Russia
 REQUEST_KWARGS = {
-    'proxy_url': 'socks5://142.93.232.142:7777',
+    'proxy_url': 'socks5://142.93.232.142:####',
     'urllib3_proxy_kwargs': {
-        'username': 'user',
-        'password': 'qetadgzcb',
+        'username': '########',
+        'password': '########',
     }
 }
 
