@@ -5,7 +5,7 @@ import os
 import telegram as tg
 
 # Bot token
-TOKEN = '766564968:AAEZNK9FAUns165AvLd_QkjprfJ0BKSC5cY'
+TOKEN = '#########:###################################'
 
 # Proxy settings for things to work in Russia
 REQUEST_KWARGS = {
