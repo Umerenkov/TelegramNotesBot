@@ -1,4 +1,4 @@
-﻿TOKEN = ''
+TOKEN = '766564968:AAEZNK9FAUns165AvLd_QkjprfJ0BKSC5cY'
 
 GREETING = '*Greetings, *'
 
@@ -12,6 +12,7 @@ Click *🗒 List of Notes* button to view the list of taken notes.
 You will be provided with a menu to choose a note you need to look over. \n
 Enter /help command to watch this message again.
 Enter /cancel command to interrupt the conversation.
+Enter /about command to view the information about the author and the code source.
 '''
 
 PLEASE_WRITE_NEW = '*Please write the body of the new note: *'
@@ -35,3 +36,9 @@ SUCCESS = '*✅ Your note has been succesfully taken.*'
 CANCEL = '⚠ *Conversation has been cancelled*'
 
 PLEASE_CREATE_FIRSTLY = '*You should firstly create at least a single note to get a list of these :)*'
+
+ABOUT = '''
+Created with love by @umerenkov21. \n
+Please send your bug reports, feature or pull request to my GitHub.
+https://github.com/Umerenkov/TelegramNotesBot
+'''
