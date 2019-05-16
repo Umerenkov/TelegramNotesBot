@@ -16,4 +16,6 @@
 
 • sqlite3 v.3.24
 
-database.db contains a ready-to-use empty database with necessary fiels, but you can uncomment the create_db() function in TNB_v.py and database_interactions.py
+
+
+database.db contains a ready-to-use empty database with necessary fields, but you can uncomment the create_db() function in TNB_v.py and database_interactions.py
