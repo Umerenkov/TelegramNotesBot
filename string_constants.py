@@ -1,4 +1,4 @@
-TOKEN = '766564968:AAEZNK9FAUns165AvLd_QkjprfJ0BKSC5cY'
+TOKEN = ''
 
 GREETING = '*Greetings, *'
 
